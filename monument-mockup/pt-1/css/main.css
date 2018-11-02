@@ -123,8 +123,7 @@ footer {
 }
 
 footer nav a {
-    margin: 0.5rem; 
-    display: flex;
-    justify-content: center;
+    margin: 0.5rem 1.25rem; 
+    font-size: 2em;
 }
 
